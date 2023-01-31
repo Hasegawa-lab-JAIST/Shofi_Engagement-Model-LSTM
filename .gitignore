@@ -6,6 +6,10 @@
 
 # log
 
+# Databse
+average_test_mediapipe.csv
+average_train_mediapipe.csv
+daisee_329dims_10timesteps.pkl
 
 
 
